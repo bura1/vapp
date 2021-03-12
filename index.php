@@ -25,7 +25,7 @@
                 <div class="row">
                     <div class="col-12">
                         <div class="navigation-content">
-                            <a href="home-8.html#" class="navigation__brand">
+                            <a href="index.php#" class="navigation__brand">
                                 <img class="navigation-main__logo" src="img/brand-logo-white.png" alt="">
                                 <img class="sticky-nav__logo" src="img/brand-logo-white.png" alt="sticky logo">
                             </a>
@@ -34,13 +34,13 @@
                                 <button class="offcanvas__close">✕</button>
                                 <ul class="navigation-menu" id="nav">
                                     <li class="navigation-menu__item">
-                                        <a class="navigation-menu__link" href="setup.html">How to Install</a>
+                                        <a class="navigation-menu__link" href="setup.php">How to Install</a>
                                     </li>
                                     <li class="navigation-menu__item">
-                                        <a class="navigation-menu__link" href="home-8.html#features">Features</a>
+                                        <a class="navigation-menu__link" href="index.php#features">Features</a>
                                     </li>
                                     <li class="navigation-menu__item">
-                                        <a class="navigation-menu__link" href="home-8.html#contact">Contact</a>
+                                        <a class="navigation-menu__link" href="index.php#contact">Contact</a>
                                     </li>
                                 </ul>
                             </nav>
@@ -71,7 +71,7 @@
                                     <p class="hero__caption">No one cares about products. People care about ideas. Is a product an idea? Noup. Is
                                         a brand? A good one is.</p>
                                     <div class="cta__buttons">
-                                        <a href="home-8.html#" class="db-btn db-btn__primary db-btn__type-sm">Download</a>
+                                        <a href="index.php#" class="db-btn db-btn__primary db-btn__type-sm">Download</a>
                                     </div>
                                 </div>
                             </div>
@@ -181,7 +181,7 @@
                                     spacious and opens out to a breathtaking plunge pool and bar area that makes the most
                                     of its unrivalled position.
                                 </p>
-                                <a href="home-8.html#" style="background-color: #9b59b6;" class="db-btn db-btn__outline db-btn__type-sm">How to setup</a>
+                                <a href="index.php#" style="background-color: #9b59b6;" class="db-btn db-btn__outline db-btn__type-sm">How to setup</a>
                             </div>
                         </div>
                     </div>
@@ -201,7 +201,7 @@
                                     spacious and opens out to a breathtaking plunge pool and bar area that makes the most
                                     of its unrivalled position.
                                 </p>
-                                <a href="home-8.html#" class="db-btn db-btn__outline db-btn__type-sm">View demo</a>
+                                <a href="index.php#" class="db-btn db-btn__outline db-btn__type-sm">View demo</a>
                             </div>
                             <div class="switchable-media reveal">
                                 <picture class="switchable-media__img">
@@ -233,7 +233,7 @@
                                     spacious and opens out to a breathtaking plunge pool and bar area that makes the most
                                     of its unrivalled position.
                                 </p>
-                                <a href="home-8.html#" class="db-btn db-btn__outline db-btn__type-sm">View demo</a>
+                                <a href="index.php#" class="db-btn db-btn__outline db-btn__type-sm">View demo</a>
                             </div>
                         </div>
                     </div>
@@ -253,7 +253,7 @@
                                     spacious and opens out to a breathtaking plunge pool and bar area that makes the most
                                     of its unrivalled position.
                                 </p>
-                                <a href="home-8.html#" class="db-btn db-btn__outline db-btn__type-sm">View demo</a>
+                                <a href="index.php#" class="db-btn db-btn__outline db-btn__type-sm">View demo</a>
                             </div>
                             <div class="switchable-media reveal">
                                 <picture class="switchable-media__img">
@@ -279,7 +279,7 @@
                                 spacious and opens out to a breathtaking plunge pool and bar area that makes the most of
                                 its unrivalled position.
                             </p>
-                            <a href="home-8.html#" class="db-btn db-btn__primary db-btn__type-md ">Try 14 Days free trial</a>
+                            <a href="index.php#" class="db-btn db-btn__primary db-btn__type-md ">Try 14 Days free trial</a>
                         </div>
                         <div class="cta-media reveal">
                             <picture class="cta-media__img">
@@ -300,7 +300,7 @@
                         <div class="footer">
                             <div class="footer-about">
                                 <div class="brand-logo">
-                                    <a href="home-8.html#">
+                                    <a href="index.php#">
                                         <img src="img/brand-logo-blue-white.png" alt="brand logo">
                                     </a>
                                 </div>
@@ -312,13 +312,13 @@
                                 <nav class="footer-widget">
                                     <ul>
                                         <li>
-                                            <a href="home-8.html#">Terms & Conditions</a>
+                                            <a href="index.php#">Terms & Conditions</a>
                                         </li>
                                         <li>
-                                            <a href="home-8.html#">Privacy Policy</a>
+                                            <a href="index.php#">Privacy Policy</a>
                                         </li>
                                         <li>
-                                            <a href="home-8.html#">Refund Policy</a>
+                                            <a href="index.php#">Refund Policy</a>
                                         </li>
                                     </ul>
                                 </nav>

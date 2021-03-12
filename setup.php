@@ -25,7 +25,7 @@
                 <div class="row">
                     <div class="col-12">
                         <div class="navigation-content">
-                            <a href="home-8.html#" class="navigation__brand">
+                            <a href="index.php#" class="navigation__brand">
                                 <img class="navigation-main__logo" src="img/brand-logo-white.png" alt="">
                                 <img class="sticky-nav__logo" src="img/brand-logo-white.png" alt="sticky logo">
                             </a>
@@ -34,13 +34,13 @@
                                 <button class="offcanvas__close">✕</button>
                                 <ul class="navigation-menu" id="nav">
                                     <li class="navigation-menu__item">
-                                        <a class="navigation-menu__link" href="setup.html">How to Install</a>
+                                        <a class="navigation-menu__link" href="setup.php">How to Install</a>
                                     </li>
                                     <li class="navigation-menu__item">
-                                        <a class="navigation-menu__link" href="home-8.html#features">Features</a>
+                                        <a class="navigation-menu__link" href="index.php#features">Features</a>
                                     </li>
                                     <li class="navigation-menu__item">
-                                        <a class="navigation-menu__link" href="home-8.html#contact">Contact</a>
+                                        <a class="navigation-menu__link" href="index.php#contact">Contact</a>
                                     </li>
                                 </ul>
                             </nav>
@@ -89,7 +89,7 @@
                         <div class="footer">
                             <div class="footer-about">
                                 <div class="brand-logo">
-                                    <a href="home-8.html#">
+                                    <a href="index.php#">
                                         <img src="img/brand-logo-blue-white.png" alt="brand logo">
                                     </a>
                                 </div>
@@ -101,13 +101,13 @@
                                 <nav class="footer-widget">
                                     <ul>
                                         <li>
-                                            <a href="home-8.html#">Terms & Conditions</a>
+                                            <a href="index.php#">Terms & Conditions</a>
                                         </li>
                                         <li>
-                                            <a href="home-8.html#">Privacy Policy</a>
+                                            <a href="index.php#">Privacy Policy</a>
                                         </li>
                                         <li>
-                                            <a href="home-8.html#">Refund Policy</a>
+                                            <a href="index.php#">Refund Policy</a>
                                         </li>
                                     </ul>
                                 </nav>
